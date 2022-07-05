@@ -1,0 +1,32 @@
+﻿  ConsoleApplication53.cpp
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(389,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(423,101): warning C4060: оператор switch не содержит метку "case" или "default"
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(477,31): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(380,10): warning C4101: keyboard_mouse: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(483,131): warning C4101: zdorovie_n: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(488,14): warning C4101: ht2: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(484,11): warning C4101: zdorovie_en: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(488,71): warning C4101: enem2: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(488,29): warning C4101: ht5: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(487,9): warning C4101: y: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(488,19): warning C4101: ht3: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(487,15): warning C4101: f: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(488,78): warning C4101: enem3: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(488,54): warning C4101: ht10: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(488,49): warning C4101: ht9: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(488,24): warning C4101: ht4: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(373,10): warning C4101: option: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(488,60): warning C4101: hl: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(488,34): warning C4101: ht6: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(487,22): warning C4101: hit: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(488,64): warning C4101: enem1: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(488,44): warning C4101: ht8: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(488,39): warning C4101: ht7: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(488,9): warning C4101: ht1: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(487,12): warning C4101: r: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(487,27): warning C4101: cikl: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(607,9): warning C4101: gold: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(608,9): warning C4101: stone: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(786,9): warning C4101: pDamage: неиспользованная локальная переменная
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(1010,37): error C2660: attackEnemy: функция не принимает 2 аргументов
+C:\Users\laman\source\repos\ConsoleApplication53\ConsoleApplication53\ConsoleApplication53.cpp(949,6): message : см. объявление "attackEnemy"
